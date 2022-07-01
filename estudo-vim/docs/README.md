@@ -10,3 +10,6 @@ pathogen é o plugin main utilizado para o vim; ele funciona puxando todos os pl
 determinado diretório para sua instalação do no editor de texto e depois são ativados com uma linha 
 no quivo .vimrc.
 
+
+NERDTree
+
