@@ -11,5 +11,7 @@ determinado diretório para sua instalação do no editor de texto e depois são
 no quivo .vimrc.
 
 
-NERDTree
+NERDTree é o plugin que mostra no canto esquerdo da tela a árvore dos arquivos do projeto, as pastas
+e como eles se encaixam. Isso ajuda muito quando se faz necessário abrir um arquivo, sem ter que lembrar
+do caminho.
 
